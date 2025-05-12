@@ -1,4 +1,4 @@
 # demo1
-First GitHub repo.
+First GitHub REPO.
 <br>
-Authorred by - Yours Truly
+Authored by - Yours Truly
